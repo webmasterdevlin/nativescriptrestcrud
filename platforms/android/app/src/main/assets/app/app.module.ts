@@ -3,6 +3,8 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
+import { HttpClientModule } from "@angular/common/http";
+import { PostService } from "./services/post.service";
 
 @NgModule({
     bootstrap: [
@@ -10,11 +12,13 @@ import { AppComponent } from "./app.component";
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule
+        AppRoutingModule,
+        HttpClientModule
     ],
     declarations: [
         AppComponent
     ],
+    providers: [PostService],
     schemas: [
         NO_ERRORS_SCHEMA
     ]

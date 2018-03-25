@@ -1,6 +1,19 @@
-<ActionBar class="action-bar">
-    <Label class="action-bar-title" text="Home"></Label>
+<ActionBar backgroundColor="#3B5998" class="action-bar" color="white">
+    <Label class="action-bar-title" text="NativeScript"></Label>
 </ActionBar>
 
-<GridLayout class="page">
-</GridLayout>
+<StackLayout>
+    <GridLayout columns="*,*,*" rows="50" margin="10">
+        <Button backgroundColor="khaki" col="0" text="Add" (tap)="onAdd()"></Button>
+        <Button col="1" text="Update" (tap)="onUpdate()"></Button>
+        <Button backgroundColor="crimson" col="2" text="Delete" (tap)="onDelete()"></Button>
+    </GridLayout>
+    <ListView [items]="posts" class="list-group">
+        <ng-template let-post="item" let-i="index" let-odd="odd" let-even="even">
+            <FlexboxLayout flexDirection="row" class="list-group-item">
+                <Label [text]="post.title"></Label>
+            </FlexboxLayout>
+        </ng-template>
+    </ListView>
+
+</StackLayout>
