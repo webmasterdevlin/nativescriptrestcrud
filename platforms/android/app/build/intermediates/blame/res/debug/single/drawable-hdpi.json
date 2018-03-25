@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

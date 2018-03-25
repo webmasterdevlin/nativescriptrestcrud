@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\e69255e02c23d976fa9238124ab232d2f77f6824\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\e69255e02c23d976fa9238124ab232d2f77f6824\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\8b9b199537f627a49bed04edc1b84f3ed868e791\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\e69255e02c23d976fa9238124ab232d2f77f6824\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\_gh\\NativeScriptRESTCRUD\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Webmaster\\.android\\build-cache\\e69255e02c23d976fa9238124ab232d2f77f6824\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    }
+]
